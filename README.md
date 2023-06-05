@@ -1,7 +1,4 @@
 # chatAppRon
-
-# Android Chat Application
-
 This is an Android chat application built using Java and Firebase.
 
 ## Features
